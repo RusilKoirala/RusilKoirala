@@ -22,7 +22,7 @@
   <a href="https://leetcode.com/rusilkoirala/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="leetcode" width="30" />
   </a>
-  <a href="https://dev.to/dev.rusilkoirala" target="blank">
+  <a href="https://dev.to/rusilkoirala" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" width="30" />
   </a>
 </p>
