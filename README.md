@@ -1,71 +1,156 @@
-<h1 align="center">Hi 👋, I'm Rusil Koirala</h1>
-<h3 align="center">A curious full-stack developer & computer science enthusiast from Nepal 🇳🇵</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rusilkoirala&label=Profile%20Views&color=0e75b6&style=flat" alt="rusilkoirala" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rusilkoirala&theme=onedark&no-frame=true" alt="trophies" />
-  </a>
-</p>
+<h1 align="center">Hey 👋, I'm Rusil Koirala</h1>
+<h3 align="center">A self-driven full-stack developer from Nepal 🚀</h3>
 
 ---
 
-### 🌐 Connect with me:
+## 💫 About Me:
 
-<p align="left">
-  <a href="mailto:rusilkoirala23@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/gmail.png" alt="email" width="30" />
-  </a>
-  <a href="https://leetcode.com/rusilkoirala/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="leetcode" width="30" />
-  </a>
-  <a href="https://dev.to/rusilkoirala" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" width="30" />
-  </a>
-</p>
+🔭 I’m currently working on:  
+Building sleek full-stack web apps with **Next.js**, **Express**, and **MongoDB**  
+Creating stunning UIs like **Vercel** / **Cursor** using **TailwindCSS** and **Framer Motion**
 
----
+👯 I’m looking to collaborate on:  
+Modern, clean UI projects, full-stack platforms, or open source tools
 
-### 💻 Languages & Tools
+🌱 I’m currently learning:  
+LLMs, neural networks, backend architecture, deployment with Vercel & Render
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
+💬 Ask me about:  
+JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS, Python, and AI/ML basics
+
+⚡ Fun fact:  
+I’m obsessed with exploring **how big systems like Netflix, GitHub, and LLMs actually work** 🤓
 
 ---
 
-### 🚀 About Me
+## 🌐 Connect with Me:
 
-- 🔭 I’m currently working on full-stack apps with **Next.js + Vercel**
-- 🌱 Learning about **AI**, **Machine Learning**, **LLMs**, and **Neural Networks**
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**, **Express**, **Python**, and **Tailwind**
-- 🧠 Exploring how platforms like **Netflix**, **Cursor**, and **Vercel** are built
-- 📨 Reach me: **rusilkoirala23@gmail.com**
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:rusilkoirala23@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/rusilkoirala)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto)](https://dev.to/dev.rusilkoirala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?logo=vercel)](https://rusilkoirala.com.np)
 
 ---
 
-### 📊 GitHub Stats
+## 💻 Tech Stack:
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rusilkoirala&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff)  
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff)
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rusilkoirala&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+**Database & Hosting**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)  
+![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel)  
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render)
+
+**Styling & UI**  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)  
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?logo=framer)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
+
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
+
+---
+
+## 📊 GitHub Stats:
+
+![Rusil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusilkoirala&show_icons=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusilkoirala&layout=compact&theme=github_dark)
+
+---
+
+## 🔝 Top Contributed Repos
+
+<a href="https://github.com/rusilkoirala">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rusilkoirala&theme=monokai" />
+</a>
+
+---
+
+_“Always curious. Always building. Always leveling up.”_ 🚀
+<h1 align="center">Hey 👋, I'm Rusil Koirala</h1>
+<h3 align="center">A self-driven full-stack developer from Nepal 🚀</h3>
+
+---
+
+## 💫 About Me:
+
+🔭 I’m currently working on:  
+Building sleek full-stack web apps with **Next.js**, **Express**, and **MongoDB**  
+Creating stunning UIs like **Vercel** / **Cursor** using **TailwindCSS** and **Framer Motion**
+
+👯 I’m looking to collaborate on:  
+Modern, clean UI projects, full-stack platforms, or open source tools
+
+🌱 I’m currently learning:  
+LLMs, neural networks, backend architecture, deployment with Vercel & Render
+
+💬 Ask me about:  
+JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS, Python, and AI/ML basics
+
+⚡ Fun fact:  
+I’m obsessed with exploring **how big systems like Netflix, GitHub, and LLMs actually work** 🤓
+
+---
+
+## 🌐 Connect with Me:
+
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:rusilkoirala23@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/rusilkoirala)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto)](https://dev.to/dev.rusilkoirala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?logo=vercel)](https://rusilkoirala.com.np)
+
+---
+
+## 💻 Tech Stack:
+
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff)  
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff)
+
+**Database & Hosting**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)  
+![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel)  
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render)
+
+**Styling & UI**  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)  
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?logo=framer)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
+
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
+
+---
+
+## 📊 GitHub Stats:
+
+![Rusil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusilkoirala&show_icons=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusilkoirala&layout=compact&theme=github_dark)
+
+---
+
+## 🔝 Top Contributed Repos
+
+<a href="https://github.com/rusilkoirala">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rusilkoirala&theme=monokai" />
+</a>
+
+---
+
+_“Always curious. Always building. Always leveling up.”_ 🚀
