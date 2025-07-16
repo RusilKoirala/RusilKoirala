@@ -14,7 +14,7 @@
 - LLMs, neural networks, and modern AI tools
 
 💬 Ask me about:
-- JavaScript, React, Node.js, Express, MongoDB, TailwindCSS, and Python basics
+- JavaScript, React, Node.js, Express, MongoDB, TailwindCSS, and Python 
 
 ⚡ Fun fact:
 - I love breaking down how systems work under the hood 🤓 and love making them
