@@ -1,27 +1,24 @@
 <h1 align="center">Hey 👋, I'm Rusil Koirala</h1>
-<h3 align="center">A self-driven full-stack developer from Nepal 🚀</h3>
+<h3 align="center">A self-driven full-stack developer from Nepal </h3>
 
 ---
 
-## 💫 About Me
+##  About Me
 
-🔭 I’m currently building:
+I’m currently building:
 - Full-stack web apps using **Next.js**, **Express**, and **MongoDB**
 - Clean, responsive UIs with **TailwindCSS** and **Framer Motion**
 
-🌱 I’m learning deeply about:
+I’m learning deeply about:
 - Backend architecture, deployments, and how real-world systems scale
 - LLMs, neural networks, and modern AI tools
 
-💬 Ask me about:
+Ask me about:
 - JavaScript, React, Node.js, Express, MongoDB, TailwindCSS, and Python 
-
-⚡ Fun fact:
-- I love breaking down how systems work under the hood 🤓 and love making them
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:rusilkoirala23@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/rusilkoirala)
@@ -30,7 +27,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
@@ -58,10 +55,10 @@
 
 ---
 
-## 📈 GitHub Snapshot
+## GitHub Snapshot
 
 ![Rusil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusilkoirala&show_icons=true&theme=github_dark)
 
 ---
 
-_“Always curious. Always building. Always leveling up.”_ 🚀
+_“Always curious. Always building. Always leveling up.”_ 
