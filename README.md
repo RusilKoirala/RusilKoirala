@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Rusil Koirala</h1>
-<h3 align="center">A self-driven full-stack developer from Nepal </h3>
+<h1 align="center">Hey, I'm Rusil Koirala</h1>
+
 
 ---
 
@@ -22,7 +22,6 @@ Ask me about:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:rusilkoirala23@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/rusilkoirala)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto)](https://dev.to/dev.rusilkoirala)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?logo=vercel)](https://rusilkoirala.com.np)
 
 ---
