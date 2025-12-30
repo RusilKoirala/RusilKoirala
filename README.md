@@ -54,9 +54,7 @@ Ask me about:
 
 ---
 
-## GitHub Snapshot
 
-![Rusil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusilkoirala&show_icons=true&theme=github_dark)
 
 ---
 
