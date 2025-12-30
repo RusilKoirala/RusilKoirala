@@ -21,7 +21,7 @@ Ask me about:
 ## Connect with Me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:rusilkoirala23@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/rusilkoirala)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/u/oBYmVy973b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?logo=vercel)](https://rusilkoirala.com.np)
 
 ---
